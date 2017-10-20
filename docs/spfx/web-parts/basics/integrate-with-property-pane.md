@@ -72,7 +72,7 @@ The following field types are supported:
 * Toggle
 * Custom
 
-The field types are available as modules in **sp-client-platform**. They require an import before you can use them in your code:
+The field types are available as modules in **sp-webpart-base**. They require an import before you can use them in your code:
 
 ```ts
 import {
@@ -83,7 +83,7 @@ import {
   PropertyPaneSlider,
   PropertyPaneToggle,
   PropertyPaneDropdown
-} from '@microsoft/sp-client-preview';
+} from '@microsoft/sp-webpart-base';
 ```
 
 Every field type method is defined as follows, taking **PropertyPaneTextField** as an example:
