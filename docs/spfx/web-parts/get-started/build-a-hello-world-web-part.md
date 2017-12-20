@@ -16,6 +16,7 @@ Client-side web parts support:
 
 > [!NOTE]
 > Before following the steps in this article, be sure to [Set up your development environment](../../set-up-your-development-environment.md).
+> Be sure to use lowercase characters in directories as npm does not support uppercase characters.
 
 You can also follow these steps by watching the video on the [SharePoint PnP YouTube Channel](https://www.youtube.com/watch?v=YqUIX2pMUzg&list=PLR9nK3mnD-OXvSWvS2zglCzz4iplhVrKq&index=2). 
 
