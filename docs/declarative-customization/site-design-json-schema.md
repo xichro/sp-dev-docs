@@ -409,7 +409,7 @@ Associates a ListViewCommandSet to the list
         {
             "verb": "associateListViewCommandSet",
             "title": "HelloWorld",
-            "location": "CommandBar"
+            "location": "CommandBar",
             "clientSideComponentId": "13234283-d6c2-408f-a9ef-31a920c8ae78",
             "clientSideComponentProperties": "{\"sampleText\":\"added by a site design\"}"
         }
